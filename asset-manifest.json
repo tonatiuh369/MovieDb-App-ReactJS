@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieDb-App-ReactJS/static/css/main.bed50bfd.css",
+    "main.js": "/MovieDb-App-ReactJS/static/js/main.a449ab82.js",
+    "static/media/background.jpg": "/MovieDb-App-ReactJS/static/media/background.5ec730e967cdc2078f7c.jpg",
+    "index.html": "/MovieDb-App-ReactJS/index.html",
+    "main.bed50bfd.css.map": "/MovieDb-App-ReactJS/static/css/main.bed50bfd.css.map",
+    "main.a449ab82.js.map": "/MovieDb-App-ReactJS/static/js/main.a449ab82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed50bfd.css",
+    "static/js/main.a449ab82.js"
+  ]
+}
